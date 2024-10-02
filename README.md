@@ -1,4 +1,4 @@
-# Official code for 'Do Domain Generalization methods generalize beyond their pretraining'
+# Official code for 'Is large scale pretraining the secret to good domain generalization?'
 
 To train CORAL:
 
